@@ -13,7 +13,7 @@ Supports all sites that have 1 TLD... not exactly planned to add more... but may
 - At least one premium account to make any sense out of this
 - aria2c (for the downloading)
 
-Example data structure in `buddyload.json`:
+Data structure in `buddyload.json` (with uptobox & 1fichier as example accounts):
 
     {
       "port": "$PORTNUMBER",
