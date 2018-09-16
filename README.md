@@ -4,8 +4,7 @@ Planned Project (already exists, needs some finetuning)
 Being nice to a friend and still wan to know what's going on
 <br />without him asking "Hey, can I use your premium account to download this one file?"
 
-Supports all sites that have 1 TLD... not exactly planned to add more... but maybe at some very much later point... 
-<br />it's also very easy for you to extend it yourself.
+Supports all sites that have .com or .org as a TLD... you can request to add more in [Issues](https://github.com/spookyahell/buddyload/issues)
 
 ### Prerequisites
 - Telegram Bot token
