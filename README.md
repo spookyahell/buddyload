@@ -7,6 +7,12 @@ Being nice to a friend and still wan to know what's going on
 Supports all sites that have 1 TLD... not exactly planned to add more... but maybe at some very much later point... 
 <br />it's also very easy for you to extend it yourself.
 
+### Prerequisites
+- Telegram Bot token
+- Device that will allow you to open a TCP port with python3.6+ and that runs 24/7 (a server is usually good for that)
+- At least one premium account to make any sense out of this
+- aria2c (for the downloading)
+
 Example data structure in `buddyload.json`:
 
     {
